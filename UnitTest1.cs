@@ -10,8 +10,8 @@ namespace GitPractise
         [Test]
         public void Test1()
         {
-            Console.WriteLine("hello world");
-            //sachin
+            Console.WriteLine("madan");
+        
           
         }
     }
